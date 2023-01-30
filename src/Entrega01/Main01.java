@@ -1,10 +1,10 @@
 
-package openbootcamp.Entrega1;
+package Entrega01;
 
 import java.util.Scanner;
 
 
-public class OpenBootCamp {
+public class Main01 {
 
     public static void main(String[] args) {
         Scanner leer = new Scanner (System.in);        
